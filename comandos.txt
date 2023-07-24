@@ -1,0 +1,17 @@
+
+Curso Angular
+
+Instalar node
+npm -v
+npm init
+npm i typescript --save-dev
+npx tsc --init
+
+
+Inicializar reporisitoio git
+git init
+git remote add origin 
+git add.
+git commit – m “información del commit”
+git branch -m main
+git push -u origin main
